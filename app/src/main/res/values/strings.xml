@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GreetingKotlin</string>
+    <string name="tts_active">Ready!</string>
+    <string name="tts_inactive">Ready!</string>
+    <string name="tts_writeany">Write any text</string>
+    <string name="btn_play">play</string>
+    <string name="tv_hellokotlin">Hello Kotlin!</string>
+</resources>
